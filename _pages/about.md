@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home | Daniel R. Reynolds"
+title: "Home"
 author_profile: true
 redirect_from:
   - /about/
