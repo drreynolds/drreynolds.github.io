@@ -30,22 +30,22 @@ author:
   uri              : # URL
   email            : "reynolds@smu.edu"
 
-  # Academic websites
-  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Reynolds%2C+D+R"
-  googlescholar    : "https://scholar.google.com/citations?user=E3Ybj5sAAAAJ"
-  impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-0911-7841"
-  semantic         : "https://www.semanticscholar.org/author/D.-Reynolds/2472023"
-  pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Daniel-Reynolds-12"
-
   # Repositories and software development
+  github           : "drreynolds"
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "drreynolds"
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
+
+  # Academic websites
+  orcid            : "https://orcid.org/0000-0002-0911-7841"
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Reynolds%2C+D+R"
+  researchgate     : "https://www.researchgate.net/profile/Daniel-Reynolds-12"
+  googlescholar    : "https://scholar.google.com/citations?user=E3Ybj5sAAAAJ"
+  semantic         : "https://www.semanticscholar.org/author/D.-Reynolds/2472023"
+  impactstory      : # URL
+  pubmed           : # URL
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
