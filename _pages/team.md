@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Current Research Group
+======================
+
 Daniel R. Reynolds -- PI
 ------------------------
 
 I am a Professor in the [Department of Mathematics](https://www.smu.edu/Dedman/academics/departments/math) at [Southern Methodist University](https://www.smu.edu).  
 Previously, I held postdoctoral research positions in the [Department of Mathematics](https://math.ucsd.edu/) and the [Center for Astrophysics and Space Sciences](https://cass.ucsd.edu/index.php/Main_Page) at the [University of California, San Diego](https://www.ucsd.edu/) (2005-2008), and in the [Center for Applied Scientific Computing](https://computation.llnl.gov/casc) at [Lawrence Livermore National Laboratory](https://www.llnl.gov/) (2003-2005).  I received a PhD in [Computational and Applied Mathematics](https://www.caam.rice.edu/) from [Rice University](https://www.rice.edu/) in 2003, and a BA in [Mathematics](https://www.southwestern.edu/math-and-computer-science/) from [Southwestern University](https://www.southwestern.edu/) in 1998.
 
-
-Current Research Group
-======================
 
 Mustafa Aggul -- Postdoctoral Researcher
 ----------------------------------------
