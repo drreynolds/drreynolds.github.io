@@ -32,7 +32,4 @@ Dallas, TX 75275
 Map
 ===
 
-html
-<div class="iframe-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.google.com/maps/place/Clements+Hall,+3100+Dyer+St,+Dallas,+TX+75205/@32.8435489,-96.7940148,15.96z/data=!4m6!3m5!1s0x864e9f05ccac6b4b:0xe2e7ff60d79f7cb3!8m2!3d32.8435152!4d-96.7842626!16s%2Fm%2F06_91gg?entry=ttu" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"></iframe>
-</div>
+[![A map to Clements Hall](/images/ClementsHall.png 'Clements Hall)](https://www.google.com/maps/place/Clements+Hall,+3100+Dyer+St,+Dallas,+TX+75205/@32.8435152,-96.7868375,16z/data=!3m1!4b1!4m6!3m5!1s0x864e9f05ccac6b4b:0xe2e7ff60d79f7cb3!8m2!3d32.8435152!4d-96.7842626!16s%2Fm%2F06_91gg?entry=ttu)
