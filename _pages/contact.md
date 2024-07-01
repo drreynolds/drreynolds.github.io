@@ -9,25 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-General
-=======
-Office: 208-D Clements Hall
-Phone: +1-214-768-4339
-Fax: +1-214-768-2355
+**Office**: 208-D Clements Hall  
+**Phone**: +1-214-768-4339  
+**Fax**: +1-214-768-2355  
 
 
 Mail
 ====
-SMU Mathematics
-PO Box 750156
-Dallas, TX 75275-0156
+SMU Mathematics  
+PO Box 750156  
+Dallas, TX 75275-0156  
 
 Packages
 ========
-SMU Mathematics
-208 Clements Hall
-3200 Dyer St
-Dallas, TX 75275
+SMU Mathematics  
+208 Clements Hall  
+3200 Dyer St  
+Dallas, TX 75275  
 
 Map
 ===
