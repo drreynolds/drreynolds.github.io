@@ -9,56 +9,93 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Daniel R. Reynolds -- PI
+=========================
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+I am a Professor in the [Department of Mathematics](https://www.smu.edu/Dedman/academics/departments/math) at [Southern Methodist University](https://www.smu.edu).  Prior to joining SMU in 2008, I held postdoctoral research positions in the [Department of Mathematics](https://math.ucsd.edu/) and the [Center for Astrophysics and Space Sciences](https://cass.ucsd.edu/index.php/Main_Page) at the [University of California, San Diego](https://www.ucsd.edu/) (2005-2008), and in the [Center for Applied Scientific Computing](https://computation.llnl.gov/casc) at [Lawrence Livermore National Laboratory](https://www.llnl.gov/) (2003-2005).  I received a PhD in [Computational and Applied Mathematics](https://www.caam.rice.edu/) from [Rice University](https://www.rice.edu/) in 2003, and a BA in [Mathematics](https://www.southwestern.edu/math-and-computer-science/) from [Southwestern University](https://www.southwestern.edu/) in 1998.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Current Research Group
+======================
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Mustafa Aggul -- Postdoctoral Researcher
+----------------------------------------
+
+Associate Professor, Mathematics, [Hacettepe Univ.](https://avesis.hacettepe.edu.tr/mustafaaggul)  
+PhD, [Michigan Technological Univ.](https://www.mtu.edu/math/) (2018)  
+Research topics: high Reynolds number fluid flows, temporally adaptive multirate infinitesimal (MRI) methods, SUNDIALS/ARKODE development.
+
+
+Sylvia Amihere -- Postdoctoral Researcher
+----------------------------------------
+
+PhD, [Mathematics](https://math.ua.edu/), [University of Alabama](https://www.ua.edu) (2024)  
+Research topics: Poisson-Boltzmann solvers, temporally adaptive multirate infinitesimal (MRI) methods, SUNDIALS/ARKODE development.
+
+
+Research Group Alumni
+======================
+
+Alex Fish
+---------
+
+Current: [Software Engineer 3, Peraton](https://www.linkedin.com/in/alex-fish-phd-212981137/)  
+PhD student (graduated 2023)  
+Dissertation: "Adaptive Multirate Infinitesimal Time Integration"
+
+Rujeko Chinomona
+----------------
+
+Current: [Postdoctoral Researcher, Los Alamos National Laboratory](https://www.linkedin.com/in/rujekochinomona/)  
+PhD student (graduated 2021)  
+Dissertation: "High-order flexible multirate integrators for multiphysics applications"
+
+Ting Yan
+---------
+
+Current: [Senior Scientist, Halliburton, Houston, TX](https://www.linkedin.com/in/ting-yan-82350780/)  
+PhD student (graduated 2020)  
+Dissertation: "Advection-reaction-diffusion model of drug concentration in a lymph node"
+
+Vu Thai Luan
+------------
+Current: [Assistant professor, Texas Tech University](https://www.researchgate.net/profile/Vu_Luan)  
+Postdoctoral researcher (2017-2019)
+
+Jean Sexton
+-----------
+Current: [Research Software Engineer, Lawrence Berkeley National Laboratory](https://www.linkedin.com/in/jean-sexton/)  
+PhD student (graduated 2017)  
+Dissertation: "High-order relaxed multirate infinitesimal step methods for multiphysics applications"
+
+David Gardner
+-------------
+Current: [Computational Scientist, Lawrence Livermore National Laboratory](https://www.linkedin.com/in/davidxgardner/)  
+PhD student (graduated 2014)  
+Dissertation: "Filters for the improvement of multiscale data from atomistic simulations"
+
+Hilari Tiedeman
+---------------
+Current: [Software Developer, General Motors](https://www.linkedin.com/in/hilaritiedeman/)  
+PhD student (graduated 2012)  
+Dissertation: "Multilevel Schur complement preconditioning for multiphysics simulations"
+
+Aleena Taufiq
+-------------
+Current: [Principal Data Scientist, Verizon](https://www.linkedin.com/in/aleena-taufiq-22b320122/)  
+Undergraduate researcher (graduated 2018)
+
+Micah Thornton
+--------------
+Current: [PhD student, Biostatistics, Southern Methodist University](https://www.linkedin.com/in/micah-thornton-86573651/)  
+Undergraduate researcher (graduated 2017)
+
+Nicholas Saulnier
+-----------------
+Current: [Digital Applications Engineer, Texas Instruments](https://www.linkedin.com/in/nick-saulnier-92153649/)  
+Undergraduate researcher (graduated 2015)
+
+Samuel White
+------------
+Current: Biostatistical Research Analyst, BlueCross BlueShield  
+Undergraduate researcher (graduated 2013)
