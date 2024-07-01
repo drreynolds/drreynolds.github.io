@@ -21,10 +21,10 @@ repository               : "drreynolds/drreynolds.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "dan.jpg"
   name             : "Daniel R. Reynolds"
-  pronouns         : "he/him"
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "(he/him/his)"
+  bio              : "Computational mathematician, focused on large-scale scientific computation."
   location         : "Dallas, TX, USA"
   employer         : "Southern Methodist University"
   cv               : "https://docs.google.com/document/d/19ZU3M9oSlsQ665Sb2wjFdVYlAdmtRSVwNo1KM1l4BXk"
