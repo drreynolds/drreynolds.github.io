@@ -21,7 +21,7 @@ repository               : "drreynolds/drreynolds.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dan.jpg"
+  avatar           : "dan.png"
   name             : "Daniel R. Reynolds"
   pronouns         : "(he/him/his)"
   bio              : "Computational mathematician, focused on large-scale scientific computation."
