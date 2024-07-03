@@ -1,7 +1,10 @@
 ---
-title: "Software item number 1"
-excerpt: "Short description of software project number 1<br/><img src='/images/500x300.png'>"
+title: "ARKODE"
+excerpt: "Adaptive Runge Kutta solvers for systems of Ordinary Differential Equations"
 collection: software
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+Distributed as part of [SUNDIALS](https://computation.llnl.gov/projects/sundials).
+
+* [GitHub](https://github.com/LLNL/sundials)
+* [Documentation](https://sundials.readthedocs.io/en/latest/arkode/index.html)
