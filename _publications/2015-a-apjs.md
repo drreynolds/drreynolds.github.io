@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Fully-coupled simulation of cosmic reionization I: numerical methods and tests"
 collection: publications
 permalink: /publication/2015-a-apjs
 date: 2015-01-01
-venue: "Journal 1"
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2015). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>, 1(1):X."
+venue: "The Astrophysical Journal Supplement"
+paperurl: "http://iopscience.iop.org/0067-0049/216/1/16/article"
+citation: "Michael L. Norman, Daniel R. Reynolds, Geoffrey C. So, Robert P. Harkness and John H. Wise. (2015). &quot;Fully-coupled simulation of cosmic reionization I: numerical methods and tests.&quot; <i>The Astrophysical Journal Supplement</i>, 216(1):16."
 ---
 
-[arXiv eprint]()
+[arXiv eprint](https://arxiv.org/abs/1306.0645v2)

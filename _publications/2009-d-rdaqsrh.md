@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Cosmological radiation hydrodynamics with Enzo"
 collection: publications
 permalink: /publication/2009-d-rdaqsrh
 date: 2009-01-01
-venue: "Journal 1"
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>, 1(1):X."
+venue: "Recent Directions in Astrophysical Quantitative Spectroscopy and Radiation Hydrodynamics"
+paperurl: "https://doi.org/10.1063/1.3250065"
+citation: "Michael L. Norman, Daniel R. Reynolds and Geoffrey C. So. (2009). &quot;Cosmological radiation hydrodynamics with Enzo.&quot; <i>Recent Directions in Astrophysical Quantitative Spectroscopy and Radiation Hydrodynamics</i>, AIP."
 ---
 
-[arXiv eprint]()
+[arXiv eprint](https://arxiv.org/abs/0908.2654)

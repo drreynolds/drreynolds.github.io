@@ -1,11 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Operator-based preconditioning of stiff hyperbolic systems"
 collection: publications
 permalink: /publication/2010-a-sisc
 date: 2010-01-01
-venue: "Journal 1"
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>, 1(1):X."
+venue: "SIAM Journal on Scientific Computing"
+paperurl: "https://epubs.siam.org/doi/abs/10.1137/080713331"
+citation: "Daniel R. Reynolds, Ravi Samtaney and Carol S. Woodward. (2009). &quot;Operator-based preconditioning of stiff hyperbolic systems.&quot; <i>SIAM Journal on Scientific Computing</i>, 32(1):150-170."
 ---
-
-[arXiv eprint]()
