@@ -1,15 +1,13 @@
 ---
-title: "Math 3302 -- Calculus 3 / Multivariable Calculus"
+title: "SMU HPC Workshops"
 collection: teaching
-type: "Undergraduate"
-permalink: /teaching/Math3302
+type: "Graduate"
+permalink: /teaching/SMUHPC
 venue: "Southern Methodist University, Department of Mathematics"
 ---
 
-A continuation of Calculus 2.  Topics include arametric equations, polar coordinates, partial differentiation, multiple integrals, and vector analysis.
+Inaugural SMU HPC workshops, sponsored by the [SMU Center for Scientific Computation](http://www.smu.edu/academics/csc). These focused on general high-performance computing computing, with specific instruction on using the new SMU *ManeFrame* cluster.
 
-* Fall 2020: [Teaching evaluations]({% link /files/Math3302_F20_Evals.pdf %})
-* Spring 2020: [Teaching evaluations]({% link /files/Math3302_S20_Evals.pdf %})
-* Fall 2016 (Math 2339 at the time): [Teaching evaluations]({% link /files/Math2339_F16_Evals.pdf %})
-* Fall 2010 (Math 2339 at the time): [Teaching evaluations]({% link /files/Math2339_F10_Evals.pdf %})
-* Fall 2008 (Math 2339 at the time): [Teaching evaluations]({% link /files/Math2339_F08_Evals.pdf %})
+* January 2015 (ManeFrame cluster)
+* May 2014 (SMUHPC cluster)
+* June 2013 (SMUHPC cluster)

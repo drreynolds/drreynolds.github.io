@@ -1,15 +1,11 @@
 ---
-title: "Math 3302 -- Calculus 3 / Multivariable Calculus"
+title: "Math 20D -- Introduction to Differential Equations"
 collection: teaching
 type: "Undergraduate"
-permalink: /teaching/Math3302
-venue: "Southern Methodist University, Department of Mathematics"
+permalink: /teaching/UCSDMath20D
+venue: "University of California, San Diego"
 ---
 
-A continuation of Calculus 2.  Topics include arametric equations, polar coordinates, partial differentiation, multiple integrals, and vector analysis.
+Ordinary differential equations: exact, separable, and linear; constant coefficients, undetermined coefficients, variations of parameters. Systems. Series solutions. Laplace transforms. Techniques for engineering sciences. Computing symbolic and graphical solutions using MATLAB.
 
-* Fall 2020: [Teaching evaluations]({% link /files/Math3302_F20_Evals.pdf %})
-* Spring 2020: [Teaching evaluations]({% link /files/Math3302_S20_Evals.pdf %})
-* Fall 2016 (Math 2339 at the time): [Teaching evaluations]({% link /files/Math2339_F16_Evals.pdf %})
-* Fall 2010 (Math 2339 at the time): [Teaching evaluations]({% link /files/Math2339_F10_Evals.pdf %})
-* Fall 2008 (Math 2339 at the time): [Teaching evaluations]({% link /files/Math2339_F08_Evals.pdf %})
+* Winter 2006
