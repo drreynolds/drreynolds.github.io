@@ -22,7 +22,6 @@ repository               : "drreynolds/drreynolds.github.io"
 author:
   # Biographic information
   avatar           : "dan.png"
-  name             : "Daniel R. Reynolds"
   pronouns         : "(he/him/his)"
   bio              : "Computational mathematician, focused on large-scale scientific computation."
   location         : "Dallas, TX, USA"
