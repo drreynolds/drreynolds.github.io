@@ -1,11 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "On the asymptotically stochastic computational modeling of microstructures"
 collection: publications
 permalink: /publication/2004-b-fcgs
 date: 2004-01-01
-venue: "Journal 1"
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>, 1(1):X."
+venue: "Future Generation Computer Systems"
+paperurl: "http://dx.doi.org/10.1016/j.future.2003.07.006"
+citation: "Cox, D., Kloucek, P., and Reynolds, D.R.. (2004). &quot;On the asymptotically stochastic computational modeling of microstructures.&quot; <i>Future Generation Computer Systems</i>, 20(3):409-424."
 ---
-
-[arXiv eprint]()

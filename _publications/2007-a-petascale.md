@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Simulating cosmological evolution with Enzo"
 collection: publications
 permalink: /publication/2007-a-petascale
 date: 2007-01-01
-venue: "Journal 1"
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>, 1(1):X."
+venue: "Petascale Computing: Algorithms and Applications"
+paperurl: "http://www.biblio.com/isbn/9781584889090.html"
+citation: "Norman, M.L., Bryan, G.L., Harkness, R., Bordner, J., Reynolds, D.R., O'Shea, B. and Wagner, R. (2007). &quot;Simulating cosmological evolution with Enzo.&quot; in <i>Petascale Computing: Algorithms and Applications</i>, D. Bader (ed.), CRC Press."
 ---
 
-[arXiv eprint]()
+[arXiv eprint](http://arxiv.org/abs/0705.1556v1)

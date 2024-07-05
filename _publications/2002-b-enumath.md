@@ -1,11 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "A subgrid projection method for relaxation of non-attainable differential inclusions"
 collection: publications
 permalink: /publication/2002-b-enumath
 date: 2002-01-01
-venue: "Journal 1"
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>, 1(1):X."
+venue: "Numerical Mathematics and Advanced Applications"
+paperurl: "https://doi.org/10.1007/978-88-470-2089-4_54"
+citation: "Cox, D., Kloucek, P., and Reynolds, D.R. (2002). &quot;A subgrid projection method for relaxation of non-attainable differential inclusions.&quot; In: Brezzi, F., Buffa, A., Corsaro, S., Murli, A. (eds) <i>Numerical Mathematics and Advanced Applications</i>. Springer, Milano"
 ---
-
-[arXiv eprint]()

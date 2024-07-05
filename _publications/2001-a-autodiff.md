@@ -1,11 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Automatic differentiation and the adjoint state method"
 collection: publications
 permalink: /publication/2001-a-autodiff
 date: 2001-01-01
-venue: "Journal 1"
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>, 1(1): X."
+venue: "Automatic Differentiation of Algorithms"
+paperurl: "https://doi.org/10.1007/978-1-4613-0075-5_18"
+citation: "Gockenbach, M.S., Reynolds, D.R., and Symes, W.W. (2001). &quot;Automatic differentiation and the adjoint state method.&quot; In: Corliss, G., Faure, C., Griewank, A., Hascoet, L., Naumann, U. (eds) <i>Automatic Differentiation of Algorithms</i>. Springer, New York, NY."
 ---
-
-[arXiv eprint]()

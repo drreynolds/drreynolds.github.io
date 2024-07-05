@@ -1,11 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "On thermodynamic active control of shape memory alloy wires"
 collection: publications
 permalink: /publication/2003-a-syscontlett
 date: 2003-01-01
-venue: "Journal 1"
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>, 1(1):X."
+venue: "Systems and Control Letters"
+paperurl: "http://dx.doi.org/10.1016/S0167-6911(02)00266-9"
+citation: "Kloucek, P., Reynolds, D.R., and Seidman, T.I. (2003). &quot;On thermodynamic active control of shape memory alloy wires.&quot; <i>Systems and Control Letters</i>, 48(3-4):211-219."
 ---
-
-[arXiv eprint]()

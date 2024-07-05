@@ -1,11 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "On the modeling of nonlinear thermodynamics in SMA wires"
 collection: publications
 permalink: /publication/2006-a-cmame
 date: 2006-01-01
-venue: "Journal 1"
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>, 1(1):X."
+venue: "Computer Methods in Applied Mechanics and Engineering"
+paperurl: "http://dx.doi.org/10.1016/j.cma.2006.03.007"
+citation: "Kloucek, P. and Reynolds, D.R. (2006). &quot;On the modeling of nonlinear thermodynamics in SMA wires.&quot; <i>Computer Methods in Applied Mechanics and Engineering</i>, 196(1):180-191."
 ---
-
-[arXiv eprint]()

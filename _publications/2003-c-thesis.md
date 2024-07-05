@@ -1,11 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "A nonlinear thermodynamic model for phase transitions in shape memory alloy wires"
 collection: publications
 permalink: /publication/2003-c-thesis
 date: 2003-01-01
-venue: "Journal 1"
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>, 1(1):X."
+venue: "Ph.D. Thesis, Rice University Department of Computational and Applied Mathematics"
+paperurl: "https://hdl.handle.net/1911/18602"
+citation: "Reynolds, D.R. (2003). &quot;A nonlinear thermodynamic model for phase transitions in shape memory alloy wires.&quot; Ph.D. Thesis, Rice University Department of Computational and Applied Mathematics."
 ---
-
-[arXiv eprint]()

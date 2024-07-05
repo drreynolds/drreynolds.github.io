@@ -1,11 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Stochastic relaxation of variational integrals with non-attainable infima"
 collection: publications
 permalink: /publication/2004-a-enumath
 date: 2004-01-01
-venue: "Journal 1"
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>, 1(1):X."
+venue: "Proc.: ENUMATH 2003 European Conference on Numerical Mathematics"
+paperurl: "https://link.springer.com/chapter/10.1007/978-3-642-18775-9_21"
+citation: "Cox, D.D., Kloucek, P., Reynolds, D.R., and Solin, P. (2004). &quot;Stochastic relaxation of variational integrals with non-attainable infima.&quot; In: Feistauer, M., Dolejsi, V., Knobloch, P., Najzar, K. (eds) <i>Numerical Mathematics and Advanced Applications</i>, Springer, Berlin, Heidelberg, 239-249."
 ---
-
-[arXiv eprint]()

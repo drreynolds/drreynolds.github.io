@@ -1,11 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Panel discusses research directions and enabling technologies for the future"
 collection: publications
 permalink: /publication/2007-b-siamnews
 date: 2007-01-01
-venue: "Journal 1"
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>, 1(1):X."
+venue: "SIAM News"
+paperurl: "https://archive.siam.org/news/news.php?id=1117"
+citation: "Reynolds, D.R. and Szypowski, R. (2007). &quot;Panel discusses research directions and enabling technologies for the future.&quot; <i>SIAM News</i>, 40(4)."
 ---
-
-[arXiv eprint]()

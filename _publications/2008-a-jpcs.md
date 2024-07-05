@@ -1,11 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "A Newton-Krylov solver for implicit solution of hydrodynamics in core collapse supernovae"
 collection: publications
 permalink: /publication/2008-a-jpcs
 date: 2008-01-01
-venue: "Journal 1"
-paperurl: "http://academicpages.github.io/files/paper1.pdf"
-citation: "Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>, 1(1):X."
+venue: "Journal of Physics: Conference Series"
+paperurl: "https://doi.org/10.1088/1742-6596/125/1/012085"
+citation: "Reynolds, D.R., Swesty, F.D., and Woodward, C.S. (2008). &quot;A Newton-Krylov solver for implicit solution of hydrodynamics in core collapse supernovae.&quot; <i>Journal of Physics: Conference Series</i>, 125:012085."
 ---
-
-[arXiv eprint]()
