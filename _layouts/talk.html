@@ -41,6 +41,16 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% if page.type and page.venue %}
+          <div>
+            {{ page.type | markdownify | strip_html | strip_newlines | escape_once }}:
+            {{ page.venue | markdownify | strip_html | strip_newlines | escape_once }}</div>
+        {% elsif page.venue %}
+          <div>{{ page.venue | markdownify | strip_html | strip_newlines | escape_once }}</div>
+        {% endif %}
+        {% if page.location %}
+          <div>{{ page.location | markdownify | strip_html | strip_newlines | escape_once }}</div>
+        {% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
