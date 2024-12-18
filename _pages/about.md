@@ -20,6 +20,16 @@ General research interests
 * Scalable, highly performant, robust and open-source mathematical software.
 
 
+Hiring
+======
+
+Thanks to strong recent funding, I am seeking talented individuals to join my research group.
+
+* One postdoctoral researcher -- see job posting [here](https://www.smu.edu/dedman/academics/departments/math/about/math-dept-jobs) for position and application details.
+
+* Multiple Ph.D. students -- interested students must [apply to our department's Ph.D. program](https://www.smu.edu/dedman/academics/departments/math/graduate/programs), indicating an interest in your personal statement to work with me.  You should also [email me directly](mailto:reynolds@smu.edu) so that we can discuss your background and research interests, and so that I can shepherd your application through our admissions committee.
+
+
 Further information
 ======
 
