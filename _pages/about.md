@@ -23,7 +23,7 @@ General research interests
 Hiring
 ======
 
-Thanks to strong recent funding, I am seeking talented individuals to join my research group.
+I am seeking multiple talented individuals to join my research group:
 
 * One postdoctoral researcher -- see job posting [here](https://www.smu.edu/dedman/academics/departments/math/about/math-dept-jobs) for position and application details.
 
