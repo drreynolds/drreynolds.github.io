@@ -27,7 +27,7 @@ Thanks to strong recent funding, I am seeking talented individuals to join my re
 
 * One postdoctoral researcher -- see job posting [here](https://www.smu.edu/dedman/academics/departments/math/about/math-dept-jobs) for position and application details.
 
-* Multiple Ph.D. students -- interested students must [apply to our department's Ph.D. program](https://www.smu.edu/dedman/academics/departments/math/graduate/programs), indicating an interest in your personal statement to work with me.  You should also [email me directly](mailto:reynolds@smu.edu) so that we can discuss your background and research interests, and so that I can shepherd your application through our admissions committee.
+* Multiple Ph.D. students -- interested students must [apply to our department's Ph.D. program](https://grad.smu.edu/graduate-studies-in-computational-and-applied-mathematics).  In your personal statement you should indicate an interest in working with me.  You should also [email me directly](mailto:reynolds@smu.edu) so that we can discuss your background and research interests, and so that I can shepherd your application through our admissions committee.
 
 
 Further information
