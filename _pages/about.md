@@ -25,9 +25,7 @@ General research interests
 Hiring
 ======
 
-I am seeking multiple talented Ph.D. students to join my research group.  Interested students must apply to the
-
-* Multiple Ph.D. students -- interested students must [apply to the UMBC Mathematics and Statistics Ph.D. program](https://mathstat.umbc.edu/graduate-programs-of-study/).  In your personal statement you should indicate an interest in working with me.  You should also [email me directly](mailto:dreynolds@umbc.edu) so that we can discuss your background and research interests, and so that I can shepherd your application through our admissions committee.
+I am seeking multiple talented Ph.D. students to join my research group.  Interested students must [apply to the UMBC Mathematics and Statistics Ph.D. program](https://mathstat.umbc.edu/graduate-programs-of-study/).  In your personal statement you should indicate an interest in working with me.  You should also [email me directly](mailto:dreynolds@umbc.edu) so that we can discuss your background and research interests, and so that I can shepherd your application through our admissions committee.
 
 
 Further information
