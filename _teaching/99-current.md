@@ -6,4 +6,4 @@ venue: "University of Maryland Baltimore County, Department of Mathematics and S
 semester: "Fall 2025"
 ---
 
-* TBD
+* [Math 221 -- MW 2:30-3:45](/Teaching/Math221/)
