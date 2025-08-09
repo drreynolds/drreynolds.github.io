@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+**Update: in Summer 2025 I am changing institutions from Southern Methodist University to the University of Maryland Baltimore County, as a member of the UMBC Department of Mathematics and Statistics.**
+
 In recent decades computation has joined theory and experiment as the third pillar of the scientific method. During this time, simulation complexity has evolved from relatively simplistic calculations involving only a handful of basic equations, to massive models that combine many physical processes. While early simulations could be well-understood using standard mathematical techniques, applied mathematics has unfortunately not kept up with the fast pace of scientific simulation development. Thus, although there now exist incredibly efficient algorithms and elegant theory for many relatively simple models, computational scientists who study highly-realistic systems must typically "solve" their multiphysics models using ad hoc methods with questionable accuracy and stability. My research program aims to bridge this gap between mathematical theory and scientific computing practice, through creating, applying, and disseminating *flexible* algorithms that may be tuned for modern, multiphysics problems, while still providing mathematical assurances such as accuracy, stability and parallel scalability.
 
 
@@ -18,6 +20,12 @@ General research interests
 * Highly collaborative interdisciplinary science.
 
 * Scalable, highly performant, robust and open-source mathematical software.
+
+
+Hiring
+======
+
+I am seeking multiple talented Ph.D. students to join my research group.  Interested students must [apply to the UMBC Mathematics and Statistics Ph.D. program](https://mathstat.umbc.edu/graduate-programs-of-study/).  In your personal statement you should indicate an interest in working with me.  You should also [email me directly](mailto:dreynolds@umbc.edu) so that we can discuss your background and research interests, and so that I can shepherd your application through our admissions committee.
 
 
 Further information

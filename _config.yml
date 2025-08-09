@@ -24,11 +24,11 @@ author:
   avatar           : "dan.png"
   pronouns         : "(he/him/his)"
   bio              : "Computational mathematician, focused on large-scale scientific computation."
-  location         : "Dallas, TX, USA"
-  employer         : "Southern Methodist University"
+  location         : "Baltimore, MD, USA"
+  employer         : "UMBC"
   cv               : "https://docs.google.com/document/d/19ZU3M9oSlsQ665Sb2wjFdVYlAdmtRSVwNo1KM1l4BXk"
   uri              : # URL
-  email            : "reynolds@smu.edu"
+  email            : "dreynolds@umbc.edu"
 
   # Repositories and software development
   github           : "drreynolds"
