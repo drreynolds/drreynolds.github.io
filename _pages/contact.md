@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Office**: Math and Psychology Building, Room 429  
+**Office**: Math/Psych Building #429  
 **Phone**:  
 
 
