@@ -9,15 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-**Office**:
-**Phone**:
-**Fax**:
+**Office**: Math and Psychology Building, Room 429  
+**Phone**:  
 
 
 Mail
 ====
-UMBC Mathematics and Statistics
-1000 Hilltop Circle, MP 410
+UMBC Mathematics and Statistics  
+1000 Hilltop Circle, MP 429  
 Baltimore, MD 21250
 
 Map
