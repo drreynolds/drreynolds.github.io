@@ -10,14 +10,14 @@ redirect_from:
 {% include base_path %}
 
 **Office**: Math/Psych Building #429  
-**Phone**:  
+**Phone**: 410.455.2429  
 
 
 Mail
 ====
 UMBC Mathematics and Statistics  
 1000 Hilltop Circle, MP 429  
-Baltimore, MD 21250
+Baltimore, MD 21250  
 
 Map
 ===
