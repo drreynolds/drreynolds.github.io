@@ -1,7 +1,7 @@
 ---
 title: "Upcoming courses"
 collection: teaching
-permalink: /teaching/current
+permalink: /teaching/upcoming
 venue: "University of Maryland Baltimore County, Department of Mathematics and Statistics"
 semester: "Spring 2026"
 ---
