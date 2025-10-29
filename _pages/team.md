@@ -18,7 +18,8 @@ Daniel R. Reynolds -- PI
 Current: Professor, [Department of Mathematics and Statistics](https://mathstat.umbc.edu/) at [University of Maryland Baltimore County](https://www.umbc.edu).
 Previous:
 
-* Professor, [Department of Mathematics](https://www.smu.edu/Dedman/academics/departments/math) at [Southern Methodist University](https://www.smu.edu).
+* Professor, [Department of Mathematics](https://www.smu.edu/Dedman/academics/departments/math) at [Southern Methodist University](https://www.smu.edu) (2008-2025).
+* Department Chair, [Department of Mathematics](https://www.smu.edu/Dedman/academics/departments/math) at [Southern Methodist University](https://www.smu.edu) (2021-2024).
 * Postdoctoral researcher, [Department of Mathematics](https://math.ucsd.edu/) and the [Center for Astrophysics and Space Sciences](https://cass.ucsd.edu/index.php/Main_Page) at the [University of California, San Diego](https://www.ucsd.edu/) (2005-2008).
 * Postdoctoral researcher, [Center for Applied Scientific Computing](https://computation.llnl.gov/casc) at [Lawrence Livermore National Laboratory](https://www.llnl.gov/) (2003-2005).
 * PhD in [Computational and Applied Mathematics](https://www.caam.rice.edu/) from [Rice University](https://www.rice.edu/) in 2003.
@@ -34,10 +35,23 @@ Research topics: high Reynolds number fluid flows, temporally adaptive multirate
 
 
 Sylvia Amihere -- Postdoctoral Researcher
-----------------------------------------
+------------------------------------------
 
 PhD, [Mathematics](https://math.ua.edu/), [University of Alabama](https://www.ua.edu) (2024)
 Research topics: Poisson-Boltzmann solvers, temporally adaptive multirate infinitesimal (MRI) methods, SUNDIALS/ARKODE development.
+
+
+Yifan Hu -- Postdoctoral Researcher
+----------------------------------------
+
+PhD, [Applied Mathematics](https://math.iastate.edu/), [Iowa State University](https://www.iastate.edu) (2025)
+Research topics: spacetime Discontinuous Galerkin methods, Vlasov-Poisson equations, temporally adaptive implicit-explicit (ImEx) and multirate infinitesimal (MRI) methods for fusion plasmas, SUNDIALS/ARKODE development.
+
+
+Dashon Mitchell -- Ph.D. Student
+----------------------------------------
+
+Research topic: scientific machine learning approaches for automatically splitting initial-value problems for implicit-explicit (ImEx) and multirate infinitesimal (MRI) time integration methods.
 
 
 Research Group Alumni
