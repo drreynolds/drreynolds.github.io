@@ -15,5 +15,8 @@ main:
   - title: "Team"
     url: /team/
 
+  - title: "Gallery"
+    url: /gallery/
+
   - title: "Contact"
     url: /contact/
