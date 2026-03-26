@@ -15,7 +15,7 @@ Current Research Group
 Daniel R. Reynolds -- PI
 ------------------------
 
-Current: Professor, [Department of Mathematics and Statistics](https://mathstat.umbc.edu/) at [University of Maryland Baltimore County](https://www.umbc.edu).  
+Current: Thomas I. Seidman Endowed Chair in Applied Mathematics, [Department of Mathematics and Statistics](https://mathstat.umbc.edu/) at [University of Maryland Baltimore County](https://www.umbc.edu).  
 
 Previous:
 
